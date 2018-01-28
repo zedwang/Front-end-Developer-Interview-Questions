@@ -14,7 +14,7 @@ This file contains a number of front-end interview questions that can be used wh
 1. [Performance Questions](questions/performance-questions.md)([性能相关问题及参考答案](questions/performance-questions-answers.md))  
 1. [Network Questions](questions/network-questions.md)([网络相关问题及参考答案](questions/network-questions-answers.md))  
 1. [Coding Questions](questions/coding-questions.md)([编码相关问题及参考答案](questions/coding-questions-answers.md))  
-1. [Fun Questions](questions/fun-questions.md)([其他兴趣爱好相关问题及参考答案](questions/fun-questions-answers.md))  
+1. [Fun Questions](questions/fun-questions.md)(无标准答案自由发挥)  
 
 ## Getting Involved
 
